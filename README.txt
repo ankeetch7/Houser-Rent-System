@@ -1,0 +1,1 @@
+Create a database called "houserent.sql" in XAMPP server then import the given SQL File in it.
